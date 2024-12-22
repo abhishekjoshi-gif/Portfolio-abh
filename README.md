@@ -10,7 +10,7 @@ This group project will build and deploy Data Analytics Platforms (DAPs) to answ
 ## Dataset:
 The dataset comes from Vancouver's Open Data site, specifically focusing on non-market housing. It includes affordable housing project characteristics such as:
 - Name
-- Location
+- Location.
 - Type of housing
 - Operator
 - And more.
